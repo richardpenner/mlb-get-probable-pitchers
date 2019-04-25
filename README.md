@@ -6,6 +6,11 @@ Provides probable pitchers for a given day, via MLB's JavaScript API.
   npm install --save mlb-get-probable-pitchers
 ```
 
+### Test it:
+```
+  npm test
+```
+
 ### Use it:
 ```
   const probablePitchers = require("mlb-get-probable-pitchers");
@@ -13,11 +18,6 @@ Provides probable pitchers for a given day, via MLB's JavaScript API.
     …
   });
 
-```
-
-### Test it:
-```
-  npm test
 ```
 
 ### Sample response:
