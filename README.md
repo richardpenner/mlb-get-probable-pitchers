@@ -15,6 +15,11 @@ Provides probable pitchers for a given day, via MLB's JavaScript API.
 
 ```
 
+### Test it:
+```
+  npm test
+```
+
 ### Sample response:
 ```json
 {
