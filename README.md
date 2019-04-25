@@ -287,8 +287,8 @@ Provides probable pitchers for a given day, via MLB's JavaScript API.
                     "probablePitcherStatus": "probable"
                 }
             }
-        },
-        /* trimmed for brevity
+        }
+        /* trimmed for brevity */
     ]
 }
 ```
