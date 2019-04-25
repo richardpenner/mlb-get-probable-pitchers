@@ -1,0 +1,37 @@
+{
+  "name": "mlb-get-probable-pitchers",
+  "version": "1.0.0",
+  "description": "Returns probable pitchers for a given day, via MLB's JavaScript API.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardpenner/mlb-get-probable-pitchers.git"
+  },
+  "keywords": [
+    "mlb",
+    "probable",
+    "pitchers",
+    "schedule"
+  ],
+  "author": "Richard Penner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardpenner/mlb-get-probable-pitchers/issues"
+  },
+  "homepage": "https://github.com/richardpenner/mlb-get-probable-pitchers#readme"
+}
